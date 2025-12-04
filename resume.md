@@ -1,0 +1,68 @@
+# Rolando Tactay
+
+## Contact Information
+- **Location:** Philippines
+- **Email:** rgtprofessional95@gmail.com
+- **Portfolio:** [https://rgt-dev.rtg-homelabs.tech](https://rgt-dev.rtg-homelabs.tech) / [https://ron-blog.rtg-homelabs.tech](https://ron-blog.rtg-homelabs.tech)
+
+## Professional Summary
+With over a decade of experience in IT—from hardware and support roles to software development and cloud system administration—I’ve built a deep, end-to-end understanding of how modern systems run. I enjoy solving complex problems, automating manual processes, and continuously improving the environments I work with. My technical toolkit includes Docker, Python, CI/CD, Ansible, Terraform, and Azure, and I’m actively growing my expertise in DevOps and data engineering. Currently working in the fintech sector at HedgeServ, I’m motivated by roles that allow me to build efficient, scalable, and automated solutions.
+
+## Professional Development & Hands-On Projects
+**Nov 2023 – Present**  
+Actively pursuing structured self-development to grow into DevOps, cloud engineering, and modern system administration. Involved in mentorship programs, tech communities, and project-based learning to strengthen practical skills across infrastructure, automation, and software delivery.  
+
+**Key Focus Areas & Achievements:**
+- Built and managed cloud environments on Azure and AWS to practice infrastructure provisioning, networking, compute, and storage.
+- Designed and maintained on-premise lab environments using VMware/Hyper-V/Proxmox, including Linux servers, VMs, and containerized application stacks.
+- Implemented monitoring and security tools such as Wazuh and Zabbix to gain experience in SIEM, observability, and hybrid environment monitoring.
+- Practiced automation and Infrastructure-as-Code using Ansible and Terraform, building reusable playbooks and deployment modules.
+- Developed and simulated CI/CD pipelines for hands-on experience with automated builds, testing, and release workflows.
+- Supported peers and local connections in building MVPs, offering guidance on architecture, deployment, and how DevOps practices can improve their workflow.
+- Provided ad-hoc advice and light assistance in areas of system administration, DevOps, and cloud workflows, as part of community and learning initiatives.
+- Created and maintained a personal website to document projects, showcase learnings, and share insights from my DevOps journey.
+- Strengthened Linux administration capabilities through security hardening, patching, maintenance, and environment optimization.
+
+## Professional Experience
+
+### HedgeServ | Manila, Philippines
+**2021 – PRESENT**
+
+#### Service Desk Engineer II
+- Serve as a Subject Matter Expert (SME) and internal escalation point for the Level 1 Service Desk team, providing advanced technical guidance, mentorship, and shift oversight across a 24/7 global support operation.
+- Part of AWS cloud migration validation initiatives, collaborating with TechOps, App Support, Network, and Cloud teams to ensure smooth infrastructure transitions with minimal service disruption.
+- Develop automation solutions using PowerShell, Python, TypeScript, and Power Automate, streamlining operational workflows, reducing manual effort, and improving team efficiency.
+- Manage critical production alerts and incidents across Windows Server environments, monitoring service availability, disk capacity, memory, CPU utilization, and cluster health within strict SLAs supporting global financial operations.
+- Troubleshoot complex production issues using the ELK stack, collaborating with Level 2/3 specialists and development teams to resolve outages, performance degradation, and application failures.
+- Develop and deliver training programs covering new technologies, processes, and SOPs to enhance team capabilities and ensure consistent service delivery across global support teams.
+- Administer Active Directory, Microsoft 365, and Windows Server 2012/2016, including server/VM operations, scheduled restarts for release teams, Python service container monitoring, and preventive maintenance.
+- Create and maintain technical documentation and SOPs for new technologies, migration activities, and operational procedures, improving knowledge sharing and reducing incident resolution time.
+
+#### App Support Engineer I
+- Served as the Level 2 escalation point for the Hazeltree application suite (collateral, cash, reconciliation modules), resolving high-priority incidents from the Service Desk team while maintaining strict SLAs.
+- Administered and maintained Hazeltree 9X environments, including Sync Manager and Hub, onboarding new clients and managing user provisioning for treasury and back-office operations.
+- Automated recurring business processes using Tidal Scheduler and PowerShell, reducing manual workload and improving operational efficiency.
+- Queried MS SQL databases and collaborated with DBAs to modify and execute stored procedures for issue resolution and data discrepancy analysis affecting financial workflows.
+- Created, modified, and troubleshot Excel mapping configurations using advanced formulas, VBA, and regular expressions to support reconciliation and data integration processes.
+- Acted as Incident Manager during application outages, coordinating efforts between Hazeltree vendor support, internal development, and infrastructure teams to ensure rapid recovery.
+- Analyzed system bugs and functional gaps, documenting defects and enhancement requests and escalating issues with detailed technical insights for development teams.
+- Developed process documentation and SOPs for application support workflows, improving knowledge transfer and operational consistency.
+- Supported 24/7 operations through on-call rotations, including weekends and holidays, for US-based financial operations.
+
+#### Service Desk Engineer I
+- Provided 24/7 Level 1 technical support for global operations, managing critical alert tickets related to service availability, disk space, memory utilization, and application performance within defined SLAs.
+- Monitored and troubleshot production environments using the ELK stack and AWS monitoring tools, analyzing system/app logs to identify root causes and implement remediation strategies that minimized downtime.
+- Managed Windows Server environments, Active Directory accounts, and Microsoft 365 configurations, performing server restarts, configuration changes, and Python service container adjustments.
+- Responded to high-priority production incidents involving environmental outages, performance degradation, and cluster issues while coordinating escalations with specialized technology teams.
+- Developed and maintained SOPs for service desk operations, improving consistency, incident response quality, and knowledge sharing across global support teams.
+- Performed server and VM administration across production and non-production environments, troubleshooting connectivity issues and conducting preventive maintenance to ensure infrastructure stability.
+
+### Wipro | Manila, Philippines
+**JUNE 2018 – AUGUST 2021**
+
+#### IT Service Desk Specialist
+- Delivered multi-channel B2B technical support via phone, chat, and email for enterprise clients, consistently maintaining high customer satisfaction while resolving complex hardware, software, and configuration issues.
+- Provided remote technical support for 1,000+ end-user devices, including laptops, desktops, and thin clients, minimizing downtime and ensuring stable productivity across enterprise environments.
+- Managed Active Directory accounts, Windows 10 deployments, Microsoft 365 configurations, and Mobile Device Management (MDM) enrollment across multiple large-scale client infrastructures.
+- Escalated critical VMware, network, and application outages to Level 2 teams with clear documentation and preliminary root cause analysis, improving escalation quality and reducing overall resolution time.
+- Served as a senior team member, leading training initiatives for new hires and managing skill-development projects that enhanced team technical competency and overall service quality.
